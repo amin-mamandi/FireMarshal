@@ -1,6 +1,6 @@
 [submodule "riscv-linux"]
 	path = boards/default/linux
-	url = https://github.com/firesim/linux.git
+	url = https://github.com/amin-mamandi/linux.git
 [submodule "opensbi"]
 	path = boards/default/firmware/opensbi
 	url = https://github.com/riscv/opensbi.git
